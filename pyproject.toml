@@ -1,0 +1,13 @@
+[project]
+name = "watercooler-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.11",
+    "ipykernel>=6.29.5",
+    "mlx-whisper>=0.4.2",
+    "openai>=1.65.4",
+    "requests>=2.32.3",
+]
